@@ -8,6 +8,7 @@ image_resource:
 
 inputs:
   - name: poc-yml2env
+  - name: yml2env
 
 run:
   path: poc-yml2env/tasks/task.sh
